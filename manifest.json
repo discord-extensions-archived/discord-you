@@ -1,0 +1,9 @@
+{
+    "name": "Discord You",
+    "description": "A customizable Discord theme based off of Google's Material You design.",
+    "version": "1.0.0d",
+    "author": "Colt & Hunter",
+    "theme": "/src/_theme.scss",
+    "consent": "false",
+    "license": "MIT"
+}
