@@ -1,0 +1,25 @@
+.wrapper-3NnKdC {
+    margin-right: var(--base-spacing);
+    padding-top: 5px;
+    border-radius: var(--base-rounding);
+    background-color: var(--background-alt);
+    .scroller-1Bvpku {
+        background-color: transparent;
+    }
+    .childWrapper-anI2G9, .circleIconButton-hZmpE8 {
+        background-color: var(--background-light);
+    }
+    .wrapper-1BJsBx {
+        &.selected-bZ3Lue, &:hover {
+            .childWrapper-anI2G9 {
+                background-color: hsla(var(--accent-primary));
+            }
+            rect {
+                fill: hsla(var(--accent-primary));;
+            }
+        }
+        rect {
+            fill: var(--background-light);
+        }
+    }
+}

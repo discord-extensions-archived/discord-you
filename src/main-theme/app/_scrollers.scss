@@ -1,0 +1,20 @@
+.scrollerBase-289Jih {
+    &.thin-1ybCId {
+        &::-webkit-scrollbar-thumb {
+            border-radius: 0;
+            background-color: var(--scrollbar-thumb);
+        }
+    }
+    &.auto-Ge5KZx {
+        &::-webkit-scrollbar {
+            width: 12px;
+            &-thumb {
+                border-radius: 0;
+                background-color: var(--scrollbar-thumb);
+            }
+            &-track {
+                background-color: var(--scrollbar-track);
+            }
+        }
+    }
+}
